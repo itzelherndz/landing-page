@@ -9,6 +9,7 @@ This Landing Page was implemented as a way for a client to have single webpage t
 N/A
 
 ## Usage
+Landing Page Link: https://itzelherndz.github.io/landing-page/
 
 This Landing Page can be used accessing the the navigation bar found in the header of the page. In the navigation bar are three items: GitHub, Portfolio, and Contact. 
 * When GitHub is clicked, user is taken to Itzel Hernandez's GitHub page.
