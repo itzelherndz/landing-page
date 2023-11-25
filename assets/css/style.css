@@ -34,8 +34,7 @@ li{
 
     /* position */
     float: right; 
-    text-align: center;
-
+    
     /* box model */
     padding: 10px;    
 }
@@ -79,9 +78,6 @@ h2{
 img{
     /* box model */
     margin: 0px auto;
-
-    /* display */
-    display:block;
 }
 
 main p{
